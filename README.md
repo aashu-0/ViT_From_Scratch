@@ -30,8 +30,7 @@ ViT/
 
 1. Clone the repository:
 ```bash
-git clone 
-cd ViT
+git clone https://github.com/aashu-0/ViT_From_Scratch.git
 ```
 
 2. Create and activate a virtual environment:
