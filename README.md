@@ -14,6 +14,7 @@ ViT/
 ├── model.py                # ViT model implementation
 ├── custom_data.py          # Data loading and preprocessing
 ├── engine.py               # Training and evaluation functions
+├── train.py                # Training script
 ├── inference.py            # Script for running inference
 └── requirements.txt        # Required dependencies
 ```
