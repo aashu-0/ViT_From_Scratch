@@ -80,7 +80,7 @@ The implementation consists of the following key components:
 ## Colab Notebooks
 
 For quick experimentation, here are Colab notebooks:
-- [ViT Training Notebook](https://colab.research.google.com/drive/1dh-eKLrHXK3dWgeuscx-ZSATpCKQeCQ2?usp=sharing)
+- [ViT Training Notebook](https://colab.research.google.com/drive/1u7dDHUkV5AaMmyxnjFFeFayu6t8PhQnt?usp=sharing)
 - [Pre-trained ViT](https://colab.research.google.com/drive/1A3q1R9P8IOF--qtULgrq2u94k3hlxVd1?usp=sharing)
 
 
