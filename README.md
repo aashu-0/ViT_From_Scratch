@@ -49,7 +49,7 @@ pip install -r requirements.txt
 To train the ViT model on CIFAR-10:
 
 ```bash
-python train.py --epochs 5
+python train.py --epochs 5 --lr 0.0003 --model_path  vit_cifar10.pth --plots_dir ./plots
 ```
 
 This will:
