@@ -5,7 +5,7 @@ from torchvision import transforms
 from torch.utils.data import DataLoader, Subset, random_split
 
 BATCH_SIZE = 64
-NUM_WORKERS = 2
+NUM_WORKERS = 0
 
 classes = {'airplane':0, 'automobile':1, 'bird':2, 'cat':3}
 img_per_class = 1000
